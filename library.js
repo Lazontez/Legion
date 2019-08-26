@@ -40,5 +40,3 @@ function legion(selector) {
     return _self;
 
 };
-
-legion("h1").lightsOff();
