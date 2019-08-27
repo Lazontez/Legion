@@ -1,6 +1,6 @@
 # Legion
 This is a very basic JQuery like Javascript Library in which you make can make 6 different calls to manipulate the DOM. 
-Please fill free to fork this repository to use and create new functions to practice your knowledge in Vanilla Javascript
+Please feel free to fork this repository to use and create new functions to practice your knowledge in Vanilla Javascript
 
 ## Authors
 
